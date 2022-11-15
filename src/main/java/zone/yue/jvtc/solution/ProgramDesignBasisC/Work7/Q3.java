@@ -9,7 +9,6 @@ import java.util.ArrayList;
  */
 public class Q3 {
     public static void main(String[] args) {
-        result();
         var max = 200;
         var count = 1;
 
