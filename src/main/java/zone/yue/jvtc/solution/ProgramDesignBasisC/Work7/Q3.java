@@ -13,7 +13,7 @@ public class Q3 {
         var count = 1;
 
         for (var i = 1; i <= max; i++) {
-            if (i % 3 == 0 || i % 5 == 0) {
+            if (i % 3 == 0 && i % 5 == 0) {
                 if (count < 5) {
                     count++;
                     System.out.print(i + "\t");
