@@ -9,7 +9,7 @@ import java.util.Scanner;
  */
 public class Q1 {
     public static void main(String[] args) {
-        var sc = new Scanner(System.in);
+        final var sc = new Scanner(System.in);
 
         for (; ; ) {
             System.out.println("请输入一个整数：");
