@@ -1,4 +1,4 @@
-package zone.yue.jvtc.solution.LanQiao;
+package zone.yue.jvtc.solution.LanQiao.problemsets;
 
 import java.util.Arrays;
 import java.util.Scanner;

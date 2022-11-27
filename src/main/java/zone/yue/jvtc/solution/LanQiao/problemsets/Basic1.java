@@ -1,4 +1,4 @@
-package zone.yue.jvtc.solution.LanQiao;
+package zone.yue.jvtc.solution.LanQiao.problemsets;
 
 import java.time.YearMonth;
 import java.util.Scanner;

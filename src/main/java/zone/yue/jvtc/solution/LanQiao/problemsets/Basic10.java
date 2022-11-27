@@ -1,4 +1,4 @@
-package zone.yue.jvtc.solution.LanQiao;
+package zone.yue.jvtc.solution.LanQiao.problemsets;
 
 import java.math.BigInteger;
 import java.util.Scanner;

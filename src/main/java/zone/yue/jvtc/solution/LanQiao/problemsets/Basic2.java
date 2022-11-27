@@ -1,4 +1,4 @@
-package zone.yue.jvtc.solution.LanQiao;
+package zone.yue.jvtc.solution.LanQiao.problemsets;
 
 /**
  * BASIC-2	01字串
