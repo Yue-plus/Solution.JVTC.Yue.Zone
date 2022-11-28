@@ -19,6 +19,7 @@ public class Q8 {
                 case 'D' -> x++;
                 case 'L' -> y--;
                 case 'R' -> y++;
+                default -> System.out.println("未知指令：" + c);
             }
         }
 
