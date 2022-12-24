@@ -13,7 +13,7 @@ public class Basic22 {
         final StringBuilder str = new StringBuilder("A");
         char c = 'B';
 
-        for (int i = 1; i < n; i++) {
+        for (int i = 1; i <= n; i++) {
             String temp = str.toString();
             str.append(c).append(temp);
             c++;
