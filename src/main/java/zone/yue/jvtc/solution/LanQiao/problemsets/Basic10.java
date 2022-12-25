@@ -1,6 +1,5 @@
 package zone.yue.jvtc.solution.LanQiao.problemsets;
 
-import java.math.BigInteger;
 import java.util.Scanner;
 
 /**
@@ -10,8 +9,6 @@ import java.util.Scanner;
  */
 public class Basic10 {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        BigInteger n = sc.nextBigInteger();
-        System.out.println(n.toString(16));
+        System.out.println(new Scanner(System.in).nextBigInteger().toString(16).toUpperCase());
     }
 }
